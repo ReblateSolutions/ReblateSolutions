@@ -1,5 +1,5 @@
 <h1 align="center">We are <b>Reblate Solutions</b></h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
+<p align="center">Reblate Solutions is a leading service-oriented company specializing in cutting-edge services such as Web Development, Shopify optimization, SEO strategies, Digital Marketing, PCC management, brand enhancement, Wholesale management, Amazon optimization, Private label consulting, and Drop-Shipping solutions. Our expertise lies in strategically aiding clients in expanding their businesses by significantly enhancing online visibility and leveraging our comprehensive industry insights and knowledge base.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abubakar-143&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abubakar-143" /> </p>
 
