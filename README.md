@@ -1,55 +1,45 @@
-<h1 align="center">We are @Reblate Solutions</h1>
+<h1 align="center">We are <b>Reblate Solutions</b></h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abubakar-143&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abubakar-143" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/Muhammad%20Abubakar-is%20Hireable-red" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-abubakar-143" alt="muhammad-abubakar-143" /></a> </p>
+
+
 
 ## About Us?
  ```JavaScript
- class Me {
+ class Us {
   constructor() {
-    this.firstName = 'Muhammad';
-    this.lastName = 'Abubakar';
+    this.firstName = 'Reblate Solutions';
+    this.lastName = '& Service Providers';
   }
 
   getFullName() {
-    return `${this.firstName} ${this.lastName}`;  // Muhammad Abubakar
+    return `${this.firstName} ${this.lastName}`; 
   }
-getStudy() {
-    return 'BSCS from University of the Punjab';
+getServices() {
+    return [
+		'Walmart',
+		'Amazon,'
+		'Web Development',
+		'Graphic Designing',
+		'Digital Marketing',
+		'Shopify',
+	]
 }
 
-getCurrentlyWorking() {
-    return 'Reblate Solutions';
+getYearsOfExperience() {
+    return '4+ Years';
 }
   
-  getJobTitle() {
-    return 'Frontend Developer';
-  }
-  
-  isGoodWith() {
+  getPortfolio() {
     return [
-              'Javascript',
-              'ReactJs',
-              'Tailwindcss',
-              'NextJs',
-        ];
+	'Bellani Empire'
+	'Reblate Solutions'
+	'Timeless Management'
+	'Vintage Wonders'
+	'Majestic Sellers'
+	]
   }
-  
-  getTechStack() {
-    return [
-              'React',
-              'Next',
-        ];
-  }
-  
-  isInLoveWith() {
-    return [
-              'semicolon ";" at the end of each statement...',
-        ];
-  }
-
   getLocation() {
     return 'Jhelum, Pakistan';
   }
